@@ -6,5 +6,5 @@ the circles into place. When the circles are snapped into place, the program dis
 stating, "Good Job!" and at this point, the program locks the circles into place, 
 preventing any further movement of the snowman spheres.
 
- ** @author Sabirah Shuaybi **
+ __@author Sabirah Shuaybi__
     @version 9/20/16
